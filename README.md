@@ -1,4 +1,4 @@
-# 📊 MarketFlash – Data Analyst Project Portfolio
+# 📊 TravelTide – Data Analyst Project Portfolio
 
 A collection of data analytics projects demonstrating **SQL, data analysis, customer segmentation, business intelligence, and data-driven decision-making**.
 
