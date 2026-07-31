@@ -130,7 +130,7 @@ The goal is to align each reward with the customer's **actual travel behavior an
 ## 📁 Repository Structure
 
 ```text
-MarketFlash-Data-Analyst-Projects/
+TravelTide-Data-Analyst-Projects/
 │
 ├── Data & Query/
 │   ├── User_segment reward_assigned Data.xlsx
@@ -242,7 +242,7 @@ My focus is on using data to answer business questions, identify patterns, and c
 
 **GitHub:** [Uddipta Gogoi](https://github.com/uddiptagogoi)
 
-**Repository:** [MarketFlash Data Analyst Projects](https://github.com/uddiptagogoi/MarketFlash-Data-Analyst-Projects)
+**Repository:** [TravelTide Data Analyst Projects](https://github.com/uddiptagogoi/TravelTide-Data-Analyst-Projects)
 
 ---
 
