@@ -4,7 +4,7 @@ A collection of data analytics projects demonstrating **SQL, data analysis, cust
 
 This repository showcases my approach to transforming raw data into actionable business insights — from data preparation and SQL analysis to customer segmentation, visualization, and business recommendations.
 
----
+--
 
 ## 🚀 Featured Project: TravelTide Customer Segmentation & Reward Strategy
 
